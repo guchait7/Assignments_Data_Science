@@ -1,27 +1,24 @@
-# Assignment_1
-
-Data Science Assignments
+# Assignment:Data Science
 
 This repository contains solved assignments for the Data Science course. Each notebook focuses on a specific pillar of the curriculum, from Python basics to Statistical Inference.
 
- _Curriculum Index:_
+ ##**Curriculum Index:**
  
-Python Essentials
+* Python Essentials
 
-Data Types & Structures: Fundamentals of Python objects.
+* Data Types & Structures: Fundamentals of Python objects.
 
-Functions & Logic: Writing reusable and modular code.
+* Functions & Logic: Writing reusable and modular code.
 
-File Handling & Logging: Professional error handling and data logging.
+* File Handling & Logging: Professional error handling and data logging.
 
-Data Analysis & Statistics
+* Data Analysis & Statistics
 
-Data Toolkit: Exploratory Data Analysis (EDA) basics.
+* Data Toolkit: Exploratory Data Analysis (EDA) basics.
 
-Statistics I: Descriptive statistics and probability.
+* Statistics I: Descriptive statistics and probability.
 
-Statistics II: Hypothesis testing, Z/T-tests, and ANOVA.
+* Statistics II: Hypothesis testing, Z/T-tests, and ANOVA.
 
-_Usage:_
-
+**Usage:**
 These notebooks are intended for educational reference. You can view the solutions directly on GitHub or clone the repo to run them locally.
